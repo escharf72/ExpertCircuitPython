@@ -14,7 +14,7 @@ Gather the values of a potentiometer in VS code with CircuitPython then transmit
 **Lessons learned:**
 1. You classmates can be one of your best resources (maybe second to the teacher and google). This assignment had many different components and by sharing knowledge that we had gained, we were able to complete the assignment much more efficiently. One person understood how to draw in Processing, the other knew how to convert to bytes, and someone else could figure out the wiring. By starting the assignment in different places, (I started with Processing while other people started with VS code) we were able to help eachother out with our new found knowledge. 
 2. What you learn in math class is actually useful! (Crazy idea, I know.) Drawing a speedometer in Processing is not as easy as it sounds and we had to use trig to get the shape that we wanted. So I learned that it is important to pay close attention in math class and that trig is useful outside of my PreCalc textbook. :) 
-<img src="Media/Final%20LED%20fade%20fritzing%20diagram%20image.PNG" width="500">
+<img src="Media/ProcessingToCircuitPy%20(1).PNG" width="500">
 
 - ## Processing to CircuitPython
 **Goal:**
